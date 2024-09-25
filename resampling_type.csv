@@ -1,0 +1,8 @@
+﻿Technique,Type,X_test_name,Y_test_name
+over,overRandomsampling,X_over,y_over
+over,SMOTE,X_train_sm,Y_train_sm
+over,ADASYN,X_ada,y_ada
+Under,underRandomsampling,X_under,y_under
+Under,allknn,X_allknn,y_allknn
+Under,NeighbourhoodCleaningRule,X_ncr,y_ncr
+Under,TomekLinks,X_tl,y_tl
